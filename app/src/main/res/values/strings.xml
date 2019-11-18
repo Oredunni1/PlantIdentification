@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Plant Identification</string>
+    <string name="spine_thorns">Spines Or Thorns</string>
+    <string name="latex">Latex</string>
+    <string name="other_exudate">Other Exudate</string>
+    <string name="simple_leaves">Simple leaves</string>
+    <string name="compound_leaves">Compound Leaves</string>
+    <string name="pinnate_leaves">1-Pinnate Leaves</string>
+    <string name="opposite_compound_leaves">Opposite Compound leaves</string>
+    <string name="opposite_simple_leaves">Opposite Simple leaves</string>
+    <string name="leaf_blade_entire">Leaf Blade Entire</string>
+    <string name="long_stalk">Long Stalk</string>
+    <string name="palmately_nerved">Palmately Nerved</string>
+    <string name="leaf_blade_divided">Leaf Blade Divided</string>
+    <string name="txt_welcome">Identify your interested spieces of tree</string>
+</resources>
